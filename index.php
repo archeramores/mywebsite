@@ -317,7 +317,16 @@ th,td{
                     <td>CSS</td>
                     <td><img src="Images/r2d2.png" class="icon"></td>
                     <td><img src="Images/r2d2.png" class="icon"></td>
+                    <td><img src="Images/r2d2.png" class="icon"></td>
                     <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td>Bootstrap</td>
+                    <td><img src="Images/r2d2.png" class="icon"></td>
+                    <td><img src="Images/r2d2.png" class="icon"></td>
+                    <td><img src="Images/r2d2.png" class="icon"></td>
                     <td></td>
                     <td></td>
                 </tr>
@@ -326,7 +335,7 @@ th,td{
                     <td>Python</td>
                     <td><img src="Images/r2d2.png" class="icon"></td>
                     <td><img src="Images/r2d2.png" class="icon"></td>
-                    <td><img src="Images/r2d2.png" class="icon"></td>
+                    <td></td>
                     <td></td>
                     <td></td>
                 </tr>
