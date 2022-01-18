@@ -344,8 +344,8 @@ th,td{
                 <tr>
                     <td>PHP</td>
                     <td><img src="Images/r2d2.png" class="icon"></td>
-                    <td></td>
-                    <td></td>
+                    <td><img src="Images/r2d2.png" class="icon"></td>
+                    <td><img src="Images/r2d2.png" class="icon"></td>
                     <td></td>
                     <td></td>
                 </tr>
