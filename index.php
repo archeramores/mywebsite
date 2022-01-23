@@ -247,7 +247,7 @@ th,td{
                         <h1 id="name">ARCHER AMORES</h1>
                             
                                 <div id="socmed">
-                                    <a href="https://www.instagram.com/archeramores/" target="_blank" class="fa fa-instagram"></a>
+                                    <a href="https://www.instagram.com/archsuuu/" target="_blank" class="fa fa-instagram"></a>
                                     <a href="https://www.facebook.com/amorescheanarcher/" target="_blank" class="fa fa-facebook"></a>
                                     <a href="https://github.com/archeramores" target="_blank" class="fa fa-github"></a>
                                 </div>
